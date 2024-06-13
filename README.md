@@ -9,7 +9,7 @@ Here is the preview before the game starts.<br/>
 <img src="./public/preview.png" alt="Preview" width="50%">
 
 For the in-game <br/>
-<img src="./public/in_game.png" alt="In game" width="50%">\
+<img src="./public/in_game.png" alt="In game" width="50%">
 
 And lastly, for the lost stage  <br/>
 <img src="./public/lost.png" alt="Lost" width="50%">
